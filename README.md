@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **R, SQL, Creating data models**
+- 💬 Ask me about **R, SQL, Creating data models, SAP, Statistica**
 
 - 📫 How to reach me **suterski17@gmail.com**
 
